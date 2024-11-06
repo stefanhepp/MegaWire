@@ -1,0 +1,19 @@
+{
+    "name": "MegaWire",
+    "version": "0.2.0",
+    "description": "Minimalistic I2C/TWI implementation for AtMega microcontrollers.",
+    "keywords": "i2c, twowire",
+    "license": "MIT",
+    "authors": {
+	"name": "Stefan Hepp",
+	"url": "https://github.com/stefanhepp/",
+	"maintainer": true
+    },
+    "repository":
+    {
+	"type": "git",
+	"url": "https://github.com/stefanhepp/MegaWire.git"
+    },
+    "frameworks": "arduino",
+    "platforms": [ "atmelavr" ]
+}
