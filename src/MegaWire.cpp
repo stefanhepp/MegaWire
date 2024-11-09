@@ -125,7 +125,7 @@ void MegaWire::onRequest( void(*callback)() ) {
  */
 static inline void delay_ack() {
 #if F_CPU > 1000000
-    delayMicroseconds(8);
+    delayMicroseconds(12);
 #endif
 }
 
